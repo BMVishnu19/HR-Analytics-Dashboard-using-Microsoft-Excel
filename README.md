@@ -2,7 +2,7 @@
 # Project Overview
 The primary goal of this project is to analyze an employee dataset to uncover critical human resources trends, such as employee attrition, salary distribution, and demographic profiles. The dashboard provides a comprehensive view of the workforce, allowing stakeholders to quickly understand key metrics and identify areas that may require further investigation.The dataset for this project is sourced from Kaggle.
 # Insights gained
-1. Workforce Distribution
+1.Workforce Distribution
 Purpose: This column chart shows the total headcount for each job role.
 
 Insights:
